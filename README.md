@@ -8,6 +8,6 @@ Under the directory named Data, the csv files which contain the half-hourly elec
 Models folder contains the pre-trained models, whereas Notebooks folder contains two Jupyter notebooks, one for univariate time series prediction models and the other for multivariate time-series predictions.
 
 ## Prerequisites
-- Clone the repository: git clone https://github.com/vjosapreniqi/Deep-Learning-for-UK-electricity-price-prediction.git
-- Install the requirements pip install -r ./requirements.txt
+- Clone the repository: `git clone https://github.com/vjosapreniqi/Deep-Learning-for-UK-electricity-price-prediction.git`
+- Install the requirements `pip install -r ./requirements.txt`
 
